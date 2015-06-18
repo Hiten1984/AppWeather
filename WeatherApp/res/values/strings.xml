@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome_text">Welcome to My Weather App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="timezoneTxt">Timezone is:</string>
+    <string name="weatherTxt">Weather is:</string>
+    <string name="tempTxt">Temperature is:</string>
+    <string name="humidityTxt">Humidity is:</string>
+    <string name="windTxt">Wind Speed is:</string>
+    <string name="pressureTxt">Pressure is:</string>
+    <string name="gps_not_enabled">Please check your GPS settings and enable location settings</string>
+    <string name="no_internet_connection">Please check your settings and enable internet connection</string>
+    <string name="network_unavailable_message">No Network available. Please retry.</string>
+    <string name="wifi_unavailable_message">WI-FI not working. Please retry.</string>
+</resources>
